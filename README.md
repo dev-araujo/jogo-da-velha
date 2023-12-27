@@ -8,7 +8,7 @@
 
 
 ### Resultado:🎨
- - O resultado pode ser conferido aqui : **[Jogo da velha]([https://jogo-da-velha.dev-araujo.repl.co/](https://vercel.com/dev-araujo/jogo-da-velha))**
+ - O resultado pode ser conferido aqui : **[jogo](https://jogo-da-velha-alpha-ruddy.vercel.app/)**
 
 ### Feito com 🔨
 - **React JS com TypeScript**
