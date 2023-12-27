@@ -28,10 +28,6 @@ No terminal, clone o projeto:
 git clone 
 ```
 
-Entre na pasta do projeto:
-```
-cd React/jogo-da-velha/game
-```
 
 Instale as dependências:
 ```
